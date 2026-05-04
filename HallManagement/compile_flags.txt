@@ -1,0 +1,10 @@
+-xc++
+-std=c++17
+--target=i686-pc-windows-gnu
+-IC:/mingw/lib/gcc/mingw32/6.3.0/include/c++
+-IC:/mingw/lib/gcc/mingw32/6.3.0/include/c++/mingw32
+-IC:/mingw/lib/gcc/mingw32/6.3.0/include/c++/backward
+-IC:/mingw/lib/gcc/mingw32/6.3.0/include
+-IC:/mingw/include
+-IC:/mingw/lib/gcc/mingw32/6.3.0/include-fixed
+-IC:/mingw/mingw32/include
